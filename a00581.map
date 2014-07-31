@@ -1,0 +1,16 @@
+<map id="poet.h" name="poet.h">
+<area shape="rect" id="node2" href="$a00428.html" title="rime/dict/user_dictionary.h" alt="" coords="305,239,481,264"/>
+<area shape="rect" id="node21" href="$a00414.html" title="rime/gear/translator\l_commons.h" alt="" coords="1062,79,1199,117"/>
+<area shape="rect" id="node6" href="$a00275.html" title="rime/common.h" alt="" coords="1178,459,1291,484"/>
+<area shape="rect" id="node12" href="$a00276.html" title="rime/component.h" alt="" coords="227,312,355,337"/>
+<area shape="rect" id="node14" href="$a00424.html" title="rime/dict/user_db.h" alt="" coords="430,312,565,337"/>
+<area shape="rect" id="node17" href="$a00434.html" title="rime/dict/vocabulary.h" alt="" coords="944,312,1094,337"/>
+<area shape="rect" id="node11" href="$a00341.html" title="no_logging.h" alt="" coords="1554,532,1652,557"/>
+<area shape="rect" id="node13" href="$a00355.html" title="rime/registry.h" alt="" coords="328,385,432,411"/>
+<area shape="rect" id="node16" href="$a00291.html" title="rime/dict/db_utils.h" alt="" coords="558,385,690,411"/>
+<area shape="rect" id="node23" href="$a00280.html" title="rime/config.h" alt="" coords="674,239,771,264"/>
+<area shape="rect" id="node26" href="$a00268.html" title="rime/candidate.h" alt="" coords="1371,312,1491,337"/>
+<area shape="rect" id="node27" href="$a00411.html" title="rime/translation.h" alt="" coords="1468,239,1591,264"/>
+<area shape="rect" id="node29" href="$a00260.html" title="rime/algo/algebra.h" alt="" coords="864,165,1000,191"/>
+<area shape="rect" id="node30" href="$a00389.html" title="spelling.h" alt="" coords="893,239,971,264"/>
+</map>

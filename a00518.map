@@ -1,0 +1,20 @@
+<map id="dictionary.cc" name="dictionary.cc">
+<area shape="rect" id="node4" href="$a00275.html" title="rime/common.h" alt="" coords="635,372,749,397"/>
+<area shape="rect" id="node9" href="$a00367.html" title="rime/schema.h" alt="" coords="1100,79,1209,104"/>
+<area shape="rect" id="node17" href="$a00378.html" title="rime/service.h" alt="" coords="1233,79,1337,104"/>
+<area shape="rect" id="node27" href="$a00409.html" title="rime/ticket.h" alt="" coords="1475,79,1568,104"/>
+<area shape="rect" id="node28" href="$a00302.html" title="rime/dict/dictionary.h" alt="" coords="1650,152,1793,177"/>
+<area shape="rect" id="node42" href="$a00399.html" title="rime/algo/syllabifier.h" alt="" coords="1379,225,1525,251"/>
+<area shape="rect" id="node8" href="$a00341.html" title="no_logging.h" alt="" coords="456,445,554,471"/>
+<area shape="rect" id="node11" href="$a00280.html" title="rime/config.h" alt="" coords="275,152,373,177"/>
+<area shape="rect" id="node15" href="$a00276.html" title="rime/component.h" alt="" coords="1024,225,1152,251"/>
+<area shape="rect" id="node16" href="$a00355.html" title="rime/registry.h" alt="" coords="856,299,960,324"/>
+<area shape="rect" id="node22" href="$a00293.html" title="rime/deployer.h" alt="" coords="736,152,848,177"/>
+<area shape="rect" id="node26" href="$a00336.html" title="rime/messenger.h" alt="" coords="502,299,629,324"/>
+<area shape="rect" id="node31" href="$a00347.html" title="rime/dict/prism.h" alt="" coords="1818,225,1937,251"/>
+<area shape="rect" id="node38" href="$a00434.html" title="rime/dict/vocabulary.h" alt="" coords="1802,299,1952,324"/>
+<area shape="rect" id="node39" href="$a00401.html" title="rime/dict/table.h" alt="" coords="2118,225,2234,251"/>
+<area shape="rect" id="node34" href="$a00389.html" title="rime/algo/spelling.h" alt="" coords="1389,299,1525,324"/>
+<area shape="rect" id="node35" href="$a00329.html" title="rime/dict/mapped_file.h" alt="" coords="2264,299,2424,324"/>
+<area shape="rect" id="node40" href="$a00391.html" title="rime/dict/string_table.h" alt="" coords="2549,299,2704,324"/>
+</map>

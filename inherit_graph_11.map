@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$a00017.html" title="rime::Class\&lt; Segmentor,\l const Ticket &amp; \&gt;" alt="" coords="5,123,173,161"/>
+<area shape="rect" id="node2" href="$a00168.html" title="rime::Segmentor" alt="" coords="221,129,341,155"/>
+<area shape="rect" id="node3" href="$a00002.html" title="rime::AbcSegmentor" alt="" coords="402,5,545,31"/>
+<area shape="rect" id="node4" href="$a00003.html" title="rime::AffixSegmentor" alt="" coords="401,55,547,80"/>
+<area shape="rect" id="node5" href="$a00006.html" title="rime::AsciiSegmentor" alt="" coords="400,104,548,129"/>
+<area shape="rect" id="node6" href="$a00071.html" title="rime::FallbackSegmentor" alt="" coords="389,153,558,179"/>
+<area shape="rect" id="node7" href="$a00093.html" title="rime::Matcher" alt="" coords="422,203,525,228"/>
+<area shape="rect" id="node8" href="$a00117.html" title="rime::PunctSegmentor" alt="" coords="397,252,551,277"/>
+</map>

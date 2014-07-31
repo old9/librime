@@ -1,0 +1,12 @@
+<map id="rime::Candidate" name="rime::Candidate">
+<area shape="rect" id="node2" href="$a00106.html" title="rime::Phrase" alt="" coords="208,12,305,37"/>
+<area shape="rect" id="node4" href="$a00175.html" title="rime::ShadowCandidate" alt="" coords="174,73,338,99"/>
+<area shape="rect" id="node6" href="$a00179.html" title="rime::SimpleCandidate" alt="" coords="178,147,334,172"/>
+<area shape="rect" id="node11" href="$a00233.html" title="rime::UniquifiedCandidate" alt="" coords="169,196,344,221"/>
+<area shape="rect" id="node3" href="$a00170.html" title="rime::Sentence" alt="" coords="415,5,526,31"/>
+<area shape="rect" id="node5" href="$a00156.html" title="rime::SchemaAction" alt="" coords="400,55,541,80"/>
+<area shape="rect" id="node7" href="$a00075.html" title="rime::FoldedOptions" alt="" coords="400,104,541,129"/>
+<area shape="rect" id="node8" href="$a00121.html" title="rime::RadioOption" alt="" coords="406,153,535,179"/>
+<area shape="rect" id="node9" href="$a00160.html" title="rime::SchemaSelection" alt="" coords="392,203,550,228"/>
+<area shape="rect" id="node10" href="$a00193.html" title="rime::Switch" alt="" coords="424,252,518,277"/>
+</map>

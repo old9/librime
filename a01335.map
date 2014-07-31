@@ -1,0 +1,8 @@
+<map id="rime::table::LongEntry" name="rime::table::LongEntry">
+<area shape="rect" id="node2" href="$a00089.html" title="rime::List\&lt; SyllableId \&gt;" alt="" coords="29,265,185,291"/>
+<area shape="rect" id="node3" href="$a00102.html" title="rime::OffsetPtr\&lt; SyllableId \&gt;" alt="" coords="5,179,193,204"/>
+<area shape="rect" id="node4" href="$a00067.html" title="rime::table::Entry" alt="" coords="213,265,335,291"/>
+<area shape="rect" id="node5" href="$a00192.html" title="rime::table::StringType" alt="" coords="217,179,371,204"/>
+<area shape="rect" id="node6" href="$a00189.html" title="rime::String" alt="" coords="249,92,339,117"/>
+<area shape="rect" id="node7" href="$a00102.html" title="rime::OffsetPtr\&lt; char \&gt;" alt="" coords="216,5,372,31"/>
+</map>

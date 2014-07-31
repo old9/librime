@@ -1,0 +1,24 @@
+<map id="navigator.cc" name="navigator.cc">
+<area shape="rect" id="node3" href="$a00275.html" title="rime/common.h" alt="" coords="734,459,847,484"/>
+<area shape="rect" id="node9" href="$a00278.html" title="rime/composition.h" alt="" coords="1600,312,1733,337"/>
+<area shape="rect" id="node14" href="$a00282.html" title="rime/context.h" alt="" coords="347,312,452,337"/>
+<area shape="rect" id="node17" href="$a00311.html" title="rime/engine.h" alt="" coords="751,312,853,337"/>
+<area shape="rect" id="node19" href="$a00324.html" title="rime/key_event.h" alt="" coords="2230,239,2353,264"/>
+<area shape="rect" id="node21" href="$a00326.html" title="rime/key_table.h" alt="" coords="2645,312,2765,337"/>
+<area shape="rect" id="node23" href="$a00340.html" title="rime/gear/navigator.h" alt="" coords="496,165,642,191"/>
+<area shape="rect" id="node29" href="$a00414.html" title="rime/gear/translator\l_commons.h" alt="" coords="1798,79,1935,117"/>
+<area shape="rect" id="node8" href="$a00341.html" title="no_logging.h" alt="" coords="1109,532,1207,557"/>
+<area shape="rect" id="node11" href="$a00373.html" title="rime/segmentation.h" alt="" coords="1647,385,1789,411"/>
+<area shape="rect" id="node15" href="$a00274.html" title="rime/commit_history.h" alt="" coords="323,385,474,411"/>
+<area shape="rect" id="node18" href="$a00336.html" title="rime/messenger.h" alt="" coords="853,385,981,411"/>
+<area shape="rect" id="node24" href="$a00276.html" title="rime/component.h" alt="" coords="1145,312,1273,337"/>
+<area shape="rect" id="node27" href="$a00348.html" title="rime/processor.h" alt="" coords="1149,239,1269,264"/>
+<area shape="rect" id="node26" href="$a00355.html" title="rime/registry.h" alt="" coords="1157,385,1261,411"/>
+<area shape="rect" id="node28" href="$a00409.html" title="rime/ticket.h" alt="" coords="1285,385,1378,411"/>
+<area shape="rect" id="node31" href="$a00280.html" title="rime/config.h" alt="" coords="1843,239,1941,264"/>
+<area shape="rect" id="node33" href="$a00268.html" title="rime/candidate.h" alt="" coords="1402,385,1522,411"/>
+<area shape="rect" id="node34" href="$a00411.html" title="rime/translation.h" alt="" coords="1453,312,1576,337"/>
+<area shape="rect" id="node35" href="$a00260.html" title="rime/algo/algebra.h" alt="" coords="2000,165,2135,191"/>
+<area shape="rect" id="node37" href="$a00434.html" title="rime/dict/vocabulary.h" alt="" coords="2269,385,2419,411"/>
+<area shape="rect" id="node36" href="$a00389.html" title="spelling.h" alt="" coords="1965,239,2043,264"/>
+</map>

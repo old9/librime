@@ -1,0 +1,23 @@
+<map id="algebra.h" name="algebra.h">
+<area shape="rect" id="node2" href="$a00270.html" title="chord_composer.h" alt="" coords="114,79,245,104"/>
+<area shape="rect" id="node5" href="$a00414.html" title="translator_commons.h" alt="" coords="904,79,1057,104"/>
+<area shape="rect" id="node9" href="$a00371.html" title="script_translator.h" alt="" coords="811,152,937,177"/>
+<area shape="rect" id="node10" href="$a00405.html" title="table_translator.h" alt="" coords="663,152,786,177"/>
+<area shape="rect" id="node18" href="$a00359.html" title="reverse_lookup_filter.h" alt="" coords="480,79,636,104"/>
+<area shape="rect" id="node19" href="$a00361.html" title="reverse_lookup_translator.h" alt="" coords="268,152,453,177"/>
+<area shape="rect" id="node20" href="$a00259.html" title="algebra.cc" alt="" coords="1082,79,1165,104"/>
+<area shape="rect" id="node21" href="$a00296.html" title="dict_compiler.cc" alt="" coords="1189,79,1305,104"/>
+<area shape="rect" id="node22" href="$a00346.html" title="prism.cc" alt="" coords="1329,79,1400,104"/>
+<area shape="rect" id="node3" href="$a00269.html" title="chord_composer.cc" alt="" coords="5,152,142,177"/>
+<area shape="rect" id="node4" href="$a00320.html" title="gears_module.cc" alt="" coords="299,225,422,251"/>
+<area shape="rect" id="node6" href="$a00343.html" title="poet.h" alt="" coords="1297,152,1355,177"/>
+<area shape="rect" id="node8" href="$a00370.html" title="script_translator.cc" alt="" coords="1009,225,1141,251"/>
+<area shape="rect" id="node11" href="$a00360.html" title="reverse_lookup_translator.cc" alt="" coords="629,225,820,251"/>
+<area shape="rect" id="node12" href="$a00404.html" title="table_translator.cc" alt="" coords="850,225,980,251"/>
+<area shape="rect" id="node13" href="$a00306.html" title="editor.cc" alt="" coords="1380,152,1451,177"/>
+<area shape="rect" id="node14" href="$a00332.html" title="memory.cc" alt="" coords="1475,152,1561,177"/>
+<area shape="rect" id="node15" href="$a00339.html" title="navigator.cc" alt="" coords="1585,152,1677,177"/>
+<area shape="rect" id="node16" href="$a00358.html" title="reverse_lookup_filter.cc" alt="" coords="477,152,639,177"/>
+<area shape="rect" id="node17" href="$a00413.html" title="translator_commons.cc" alt="" coords="1113,152,1272,177"/>
+<area shape="rect" id="node7" href="$a00342.html" title="poet.cc" alt="" coords="1294,225,1358,251"/>
+</map>

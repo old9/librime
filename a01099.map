@@ -1,0 +1,24 @@
+<map id="rime::ScriptTranslation" name="rime::ScriptTranslation">
+<area shape="rect" id="node2" href="$a00219.html" title="rime::Translation" alt="" coords="1307,5,1427,31"/>
+<area shape="rect" id="node3" href="$a00199.html" title="rime::Syllabification" alt="" coords="1299,55,1435,80"/>
+<area shape="rect" id="node7" href="$a00201.html" title="rime::SyllableGraph" alt="" coords="1027,267,1165,292"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="386,324,506,349"/>
+<area shape="rect" id="node39" title="STL class. " alt="" coords="383,445,510,484"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="712,388,791,413"/>
+<area shape="rect" id="node17" href="$a00220.html" title="rime::Translator" alt="" coords="1039,668,1153,693"/>
+<area shape="rect" id="node34" href="$a00221.html" title="rime::TranslatorOptions" alt="" coords="1016,489,1176,515"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="383,381,509,420"/>
+<area shape="rect" id="node16" href="$a00165.html" title="rime::ScriptTranslator" alt="" coords="1293,489,1441,515"/>
+<area shape="rect" id="node18" href="$a00017.html" title="rime::Class\&lt; Translator,\l const Ticket &amp; \&gt;" alt="" coords="670,691,832,729"/>
+<area shape="rect" id="node19" href="$a00066.html" title="rime::Engine" alt="" coords="703,789,799,815"/>
+<area shape="rect" id="node20" href="$a00096.html" title="rime::Messenger" alt="" coords="386,955,506,980"/>
+<area shape="rect" id="node23" href="$a00042.html" title="rime::Context" alt="" coords="59,732,159,757"/>
+<area shape="rect" id="node26" href="$a00155.html" title="rime::Schema" alt="" coords="57,888,161,913"/>
+<area shape="rect" id="node27" href="$a00094.html" title="rime::Memory" alt="" coords="1045,591,1147,616"/>
+<area shape="rect" id="node29" href="$a00244.html" title="rime::UserDictionary" alt="" coords="375,635,517,660"/>
+<area shape="rect" id="node30" href="$a00017.html" title="rime::Class\&lt; UserDictionary,\l const Ticket &amp; \&gt;" alt="" coords="14,628,204,667"/>
+<area shape="rect" id="node32" href="$a00059.html" title="rime::Dictionary" alt="" coords="389,572,503,597"/>
+<area shape="rect" id="node33" href="$a00017.html" title="rime::Class\&lt; Dictionary,\l const Ticket &amp; \&gt;" alt="" coords="28,565,190,604"/>
+<area shape="rect" id="node35" href="$a00115.html" title="rime::Projection" alt="" coords="694,516,808,541"/>
+<area shape="rect" id="node38" href="$a00105.html" title="rime::Patterns" alt="" coords="699,463,803,488"/>
+</map>

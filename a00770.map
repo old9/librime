@@ -1,0 +1,8 @@
+<map id="rime::Calculation" name="rime::Calculation">
+<area shape="rect" id="node2" href="$a00069.html" title="rime::Erasion" alt="" coords="5,79,105,104"/>
+<area shape="rect" id="node3" href="$a00218.html" title="rime::Transformation" alt="" coords="129,79,273,104"/>
+<area shape="rect" id="node7" href="$a00222.html" title="rime::Transliteration" alt="" coords="297,79,435,104"/>
+<area shape="rect" id="node4" href="$a00051.html" title="rime::Derivation" alt="" coords="143,152,258,177"/>
+<area shape="rect" id="node5" href="$a00001.html" title="rime::Abbreviation" alt="" coords="67,225,196,251"/>
+<area shape="rect" id="node6" href="$a00077.html" title="rime::Fuzzing" alt="" coords="219,225,321,251"/>
+</map>

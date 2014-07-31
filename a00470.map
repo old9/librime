@@ -1,0 +1,21 @@
+<map id="chord_composer.cc" name="chord_composer.cc">
+<area shape="rect" id="node2" href="$a00275.html" title="rime/common.h" alt="" coords="563,445,676,471"/>
+<area shape="rect" id="node8" href="$a00278.html" title="rime/composition.h" alt="" coords="801,152,934,177"/>
+<area shape="rect" id="node13" href="$a00280.html" title="rime/config.h" alt="" coords="1210,225,1308,251"/>
+<area shape="rect" id="node19" href="$a00282.html" title="rime/context.h" alt="" coords="60,299,165,324"/>
+<area shape="rect" id="node22" href="$a00311.html" title="rime/engine.h" alt="" coords="679,299,781,324"/>
+<area shape="rect" id="node24" href="$a00324.html" title="rime/key_event.h" alt="" coords="519,225,642,251"/>
+<area shape="rect" id="node27" href="$a00367.html" title="rime/schema.h" alt="" coords="1110,152,1219,177"/>
+<area shape="rect" id="node28" href="$a00270.html" title="rime/gear/chord_composer.h" alt="" coords="1204,79,1395,104"/>
+<area shape="rect" id="node7" href="$a00341.html" title="no_logging.h" alt="" coords="938,519,1036,544"/>
+<area shape="rect" id="node10" href="$a00373.html" title="rime/segmentation.h" alt="" coords="796,225,938,251"/>
+<area shape="rect" id="node17" href="$a00276.html" title="rime/component.h" alt="" coords="1594,299,1722,324"/>
+<area shape="rect" id="node18" href="$a00355.html" title="rime/registry.h" alt="" coords="1527,372,1632,397"/>
+<area shape="rect" id="node20" href="$a00274.html" title="rime/commit_history.h" alt="" coords="25,372,176,397"/>
+<area shape="rect" id="node23" href="$a00336.html" title="rime/messenger.h" alt="" coords="758,372,886,397"/>
+<area shape="rect" id="node25" href="$a00326.html" title="rime/key_table.h" alt="" coords="404,299,523,324"/>
+<area shape="rect" id="node29" href="$a00348.html" title="rime/processor.h" alt="" coords="1666,225,1786,251"/>
+<area shape="rect" id="node31" href="$a00260.html" title="rime/algo/algebra.h" alt="" coords="1244,152,1379,177"/>
+<area shape="rect" id="node30" href="$a00409.html" title="rime/ticket.h" alt="" coords="1757,372,1850,397"/>
+<area shape="rect" id="node32" href="$a00389.html" title="spelling.h" alt="" coords="1514,225,1591,251"/>
+</map>

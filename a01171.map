@@ -1,0 +1,7 @@
+<map id="rime::SwitcherCommand" name="rime::SwitcherCommand">
+<area shape="rect" id="node2" href="$a00075.html" title="rime::FoldedOptions" alt="" coords="229,5,371,31"/>
+<area shape="rect" id="node3" href="$a00121.html" title="rime::RadioOption" alt="" coords="235,55,364,80"/>
+<area shape="rect" id="node4" href="$a00156.html" title="rime::SchemaAction" alt="" coords="230,104,370,129"/>
+<area shape="rect" id="node5" href="$a00160.html" title="rime::SchemaSelection" alt="" coords="221,153,379,179"/>
+<area shape="rect" id="node6" href="$a00193.html" title="rime::Switch" alt="" coords="253,203,347,228"/>
+</map>

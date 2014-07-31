@@ -1,0 +1,10 @@
+digraph "rime::table::StringType"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="rime::table::StringType",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" str" ,fontname="Helvetica"];
+  Node2 [label="rime::String",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a00189.html"];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data" ,fontname="Helvetica"];
+  Node3 [label="rime::OffsetPtr\< char \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a00102.html"];
+}

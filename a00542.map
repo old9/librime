@@ -1,0 +1,12 @@
+<map id="filter.h" name="filter.h">
+<area shape="rect" id="node2" href="$a00272.html" title="cjk_minifier.h" alt="" coords="103,79,201,104"/>
+<area shape="rect" id="node5" href="$a00359.html" title="reverse_lookup_filter.h" alt="" coords="225,79,381,104"/>
+<area shape="rect" id="node7" href="$a00386.html" title="simplifier.h" alt="" coords="405,79,489,104"/>
+<area shape="rect" id="node9" href="$a00420.html" title="uniquifier.h" alt="" coords="513,79,599,104"/>
+<area shape="rect" id="node11" href="$a00310.html" title="engine.cc" alt="" coords="624,79,702,104"/>
+<area shape="rect" id="node3" href="$a00271.html" title="cjk_minifier.cc" alt="" coords="5,152,110,177"/>
+<area shape="rect" id="node4" href="$a00320.html" title="gears_module.cc" alt="" coords="320,152,443,177"/>
+<area shape="rect" id="node6" href="$a00358.html" title="reverse_lookup_filter.cc" alt="" coords="134,152,296,177"/>
+<area shape="rect" id="node8" href="$a00385.html" title="simplifier.cc" alt="" coords="467,152,557,177"/>
+<area shape="rect" id="node10" href="$a00419.html" title="uniquifier.cc" alt="" coords="581,152,673,177"/>
+</map>

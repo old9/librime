@@ -1,0 +1,8 @@
+<map id="rime::Db" name="rime::Db">
+<area shape="rect" id="node3" href="$a00213.html" title="rime::TextDb" alt="" coords="84,165,180,191"/>
+<area shape="rect" id="node7" href="$a00223.html" title="rime::TreeDb" alt="" coords="204,165,303,191"/>
+<area shape="rect" id="node2" href="$a00017.html" title="rime::Class\&lt; Db, const\l std::string &amp; \&gt;" alt="" coords="114,5,270,44"/>
+<area shape="rect" id="node4" href="$a00205.html" title="rime::TableDb" alt="" coords="8,239,112,264"/>
+<area shape="rect" id="node6" href="$a00250.html" title="rime::VocabularyDb" alt="" coords="135,239,273,264"/>
+<area shape="rect" id="node5" href="$a00188.html" title="rime::StableDb" alt="" coords="5,312,115,337"/>
+</map>

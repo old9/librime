@@ -1,0 +1,19 @@
+<map id="ascii_composer.cc" name="ascii_composer.cc">
+<area shape="rect" id="node2" href="$a00275.html" title="rime/common.h" alt="" coords="335,372,448,397"/>
+<area shape="rect" id="node8" href="$a00278.html" title="rime/composition.h" alt="" coords="913,225,1046,251"/>
+<area shape="rect" id="node13" href="$a00280.html" title="rime/config.h" alt="" coords="1160,152,1257,177"/>
+<area shape="rect" id="node19" href="$a00282.html" title="rime/context.h" alt="" coords="635,225,740,251"/>
+<area shape="rect" id="node22" href="$a00311.html" title="rime/engine.h" alt="" coords="772,225,874,251"/>
+<area shape="rect" id="node24" href="$a00324.html" title="rime/key_event.h" alt="" coords="1495,299,1618,324"/>
+<area shape="rect" id="node27" href="$a00367.html" title="rime/schema.h" alt="" coords="1026,79,1135,104"/>
+<area shape="rect" id="node28" href="$a00262.html" title="rime/gear/ascii_composer.h" alt="" coords="1340,79,1525,104"/>
+<area shape="rect" id="node7" href="$a00341.html" title="no_logging.h" alt="" coords="501,445,599,471"/>
+<area shape="rect" id="node10" href="$a00373.html" title="rime/segmentation.h" alt="" coords="780,299,922,324"/>
+<area shape="rect" id="node17" href="$a00276.html" title="rime/component.h" alt="" coords="1490,225,1618,251"/>
+<area shape="rect" id="node18" href="$a00355.html" title="rime/registry.h" alt="" coords="1199,299,1304,324"/>
+<area shape="rect" id="node20" href="$a00274.html" title="rime/commit_history.h" alt="" coords="605,299,756,324"/>
+<area shape="rect" id="node23" href="$a00336.html" title="rime/messenger.h" alt="" coords="454,299,582,324"/>
+<area shape="rect" id="node25" href="$a00326.html" title="rime/key_table.h" alt="" coords="1476,372,1595,397"/>
+<area shape="rect" id="node30" href="$a00348.html" title="rime/processor.h" alt="" coords="1522,152,1642,177"/>
+<area shape="rect" id="node31" href="$a00409.html" title="rime/ticket.h" alt="" coords="1378,299,1471,324"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$a00065.html" title="rime::Encoder" alt="" coords="5,31,110,56"/>
+<area shape="rect" id="node2" href="$a00163.html" title="rime::ScriptEncoder" alt="" coords="163,5,302,31"/>
+<area shape="rect" id="node3" href="$a00206.html" title="rime::TableEncoder" alt="" coords="164,55,301,80"/>
+<area shape="rect" id="node4" href="$a00235.html" title="rime::UnityTableEncoder" alt="" coords="355,55,522,80"/>
+<area shape="rect" id="node5" href="$a00107.html" title="rime::PhraseCollector" alt="" coords="158,104,307,129"/>
+<area shape="rect" id="node6" href="$a00068.html" title="rime::EntryCollector" alt="" coords="369,104,508,129"/>
+</map>

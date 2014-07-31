@@ -1,0 +1,15 @@
+<map id="userdb_recovery_task.cc" name="userdb_recovery_task.cc">
+<area shape="rect" id="node5" href="$a00293.html" title="rime/deployer.h" alt="" coords="1368,165,1481,191"/>
+<area shape="rect" id="node21" href="$a00289.html" title="rime/dict/db.h" alt="" coords="743,165,845,191"/>
+<area shape="rect" id="node22" href="$a00416.html" title="rime/dict/tree_db.h" alt="" coords="696,85,828,111"/>
+<area shape="rect" id="node23" href="$a00407.html" title="rime/dict/text_db.h" alt="" coords="542,85,673,111"/>
+<area shape="rect" id="node27" href="$a00424.html" title="rime/dict/user_db.h" alt="" coords="937,239,1072,264"/>
+<area shape="rect" id="node30" href="$a00430.html" title="rime/lever/userdb_recovery\l_task.h" alt="" coords="1333,79,1516,117"/>
+<area shape="rect" id="node11" href="$a00275.html" title="rime/common.h" alt="" coords="1303,385,1416,411"/>
+<area shape="rect" id="node17" href="$a00276.html" title="rime/component.h" alt="" coords="758,239,886,264"/>
+<area shape="rect" id="node20" href="$a00336.html" title="rime/messenger.h" alt="" coords="1346,312,1474,337"/>
+<area shape="rect" id="node16" href="$a00341.html" title="no_logging.h" alt="" coords="1679,459,1776,484"/>
+<area shape="rect" id="node19" href="$a00355.html" title="rime/registry.h" alt="" coords="770,312,874,337"/>
+<area shape="rect" id="node24" href="$a00418.html" title="rime/dict/tsv.h" alt="" coords="401,165,504,191"/>
+<area shape="rect" id="node29" href="$a00291.html" title="rime/dict/db_utils.h" alt="" coords="1088,312,1220,337"/>
+</map>

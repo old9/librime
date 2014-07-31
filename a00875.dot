@@ -1,0 +1,33 @@
+digraph "rime::DeploymentTask"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="rime::DeploymentTask",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="rime::Class\< DeploymentTask,\l TaskInitializer \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a00017.html"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="rime::BackupConfigFiles",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a00007.html"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="rime::CleanOldLogFiles",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a00018.html"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="rime::CleanupTrash",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a00019.html"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="rime::ConfigFileUpdate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a00034.html"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="rime::InstallationUpdate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a00079.html"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="rime::PrebuildAllSchemas",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a00110.html"];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="rime::SchemaUpdate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a00161.html"];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="rime::SymlinkingPrebuilt\lDictionaries",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a00202.html"];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="rime::UserDbRecoveryTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a00239.html"];
+  Node1 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="rime::UserDictSync",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a00247.html"];
+  Node1 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="rime::UserDictUpgration",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a00248.html"];
+  Node1 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="rime::WorkspaceUpdate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a00254.html"];
+}

@@ -1,0 +1,23 @@
+<map id="dict_module.cc" name="dict_module.cc">
+<area shape="rect" id="node2" href="$a00363.html" title="rime_api.h" alt="" coords="518,79,601,104"/>
+<area shape="rect" id="node5" href="$a00275.html" title="rime/common.h" alt="" coords="1119,459,1232,484"/>
+<area shape="rect" id="node11" href="$a00355.html" title="rime/registry.h" alt="" coords="1781,385,1885,411"/>
+<area shape="rect" id="node14" href="$a00403.html" title="rime/dict/table_db.h" alt="" coords="2325,79,2463,104"/>
+<area shape="rect" id="node15" href="$a00407.html" title="rime/dict/text_db.h" alt="" coords="2329,152,2459,177"/>
+<area shape="rect" id="node21" href="$a00416.html" title="rime/dict/tree_db.h" alt="" coords="2174,152,2306,177"/>
+<area shape="rect" id="node22" href="$a00424.html" title="rime/dict/user_db.h" alt="" coords="1964,312,2099,337"/>
+<area shape="rect" id="node24" href="$a00302.html" title="rime/dict/dictionary.h" alt="" coords="1260,232,1403,257"/>
+<area shape="rect" id="node37" href="$a00357.html" title="rime/dict/reverse_lookup\l_dictionary.h" alt="" coords="1039,225,1206,264"/>
+<area shape="rect" id="node38" href="$a00428.html" title="rime/dict/user_dictionary.h" alt="" coords="1696,232,1872,257"/>
+<area shape="rect" id="node10" href="$a00341.html" title="no_logging.h" alt="" coords="983,532,1080,557"/>
+<area shape="rect" id="node16" href="$a00289.html" title="rime/dict/db.h" alt="" coords="2189,232,2290,257"/>
+<area shape="rect" id="node18" href="$a00418.html" title="rime/dict/tsv.h" alt="" coords="2276,385,2379,411"/>
+<area shape="rect" id="node17" href="$a00276.html" title="rime/component.h" alt="" coords="1680,312,1808,337"/>
+<area shape="rect" id="node23" href="$a00291.html" title="rime/dict/db_utils.h" alt="" coords="2069,385,2202,411"/>
+<area shape="rect" id="node26" href="$a00347.html" title="rime/dict/prism.h" alt="" coords="965,312,1085,337"/>
+<area shape="rect" id="node33" href="$a00434.html" title="rime/dict/vocabulary.h" alt="" coords="1101,385,1251,411"/>
+<area shape="rect" id="node34" href="$a00401.html" title="rime/dict/table.h" alt="" coords="711,312,827,337"/>
+<area shape="rect" id="node29" href="$a00389.html" title="rime/algo/spelling.h" alt="" coords="1909,385,2045,411"/>
+<area shape="rect" id="node30" href="$a00329.html" title="rime/dict/mapped_file.h" alt="" coords="147,385,306,411"/>
+<area shape="rect" id="node35" href="$a00391.html" title="rime/dict/string_table.h" alt="" coords="381,385,536,411"/>
+</map>

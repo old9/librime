@@ -1,0 +1,30 @@
+<map id="segmentation.h" name="segmentation.h">
+<area shape="rect" id="node2" href="$a00278.html" title="composition.h" alt="" coords="885,79,988,104"/>
+<area shape="rect" id="node5" href="$a00281.html" title="context.cc" alt="" coords="5,152,87,177"/>
+<area shape="rect" id="node6" href="$a00310.html" title="engine.cc" alt="" coords="111,152,189,177"/>
+<area shape="rect" id="node21" href="$a00255.html" title="abc_segmentor.cc" alt="" coords="1012,79,1141,104"/>
+<area shape="rect" id="node22" href="$a00257.html" title="affix_segmentor.cc" alt="" coords="1165,79,1298,104"/>
+<area shape="rect" id="node23" href="$a00263.html" title="ascii_segmentor.cc" alt="" coords="1321,79,1456,104"/>
+<area shape="rect" id="node24" href="$a00304.html" title="echo_translator.cc" alt="" coords="1480,79,1609,104"/>
+<area shape="rect" id="node25" href="$a00314.html" title="fallback_segmentor.cc" alt="" coords="1633,79,1787,104"/>
+<area shape="rect" id="node26" href="$a00317.html" title="filter_commons.cc" alt="" coords="1811,79,1940,104"/>
+<area shape="rect" id="node27" href="$a00330.html" title="matcher.cc" alt="" coords="1963,79,2049,104"/>
+<area shape="rect" id="node28" href="$a00360.html" title="reverse_lookup_translator.cc" alt="" coords="2073,79,2265,104"/>
+<area shape="rect" id="node29" href="$a00372.html" title="segmentation.cc" alt="" coords="2288,79,2407,104"/>
+<area shape="rect" id="node3" href="$a00273.html" title="commit_history.cc" alt="" coords="1428,152,1555,177"/>
+<area shape="rect" id="node4" href="$a00277.html" title="composition.cc" alt="" coords="1579,152,1689,177"/>
+<area shape="rect" id="node7" href="$a00261.html" title="ascii_composer.cc" alt="" coords="1713,152,1843,177"/>
+<area shape="rect" id="node8" href="$a00269.html" title="chord_composer.cc" alt="" coords="1867,152,2004,177"/>
+<area shape="rect" id="node9" href="$a00306.html" title="editor.cc" alt="" coords="2028,152,2099,177"/>
+<area shape="rect" id="node10" href="$a00321.html" title="key_binder.cc" alt="" coords="2123,152,2225,177"/>
+<area shape="rect" id="node11" href="$a00332.html" title="memory.cc" alt="" coords="213,152,298,177"/>
+<area shape="rect" id="node12" href="$a00339.html" title="navigator.cc" alt="" coords="322,152,415,177"/>
+<area shape="rect" id="node13" href="$a00349.html" title="punctuator.cc" alt="" coords="438,152,539,177"/>
+<area shape="rect" id="node14" href="$a00352.html" title="recognizer.cc" alt="" coords="563,152,663,177"/>
+<area shape="rect" id="node15" href="$a00370.html" title="script_translator.cc" alt="" coords="686,152,819,177"/>
+<area shape="rect" id="node16" href="$a00375.html" title="selector.cc" alt="" coords="843,152,927,177"/>
+<area shape="rect" id="node17" href="$a00387.html" title="speller.cc" alt="" coords="950,152,1027,177"/>
+<area shape="rect" id="node18" href="$a00404.html" title="table_translator.cc" alt="" coords="1051,152,1180,177"/>
+<area shape="rect" id="node19" href="$a00362.html" title="rime_api.cc" alt="" coords="1204,152,1293,177"/>
+<area shape="rect" id="node20" href="$a00394.html" title="switcher.cc" alt="" coords="1317,152,1404,177"/>
+</map>

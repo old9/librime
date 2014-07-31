@@ -1,0 +1,15 @@
+digraph "rime::reverse::Metadata"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="rime::reverse::Metadata",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" value_trie\nkey_trie" ,fontname="Helvetica"];
+  Node2 [label="rime::OffsetPtr\< char \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a00102.html"];
+  Node3 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" dict_settings" ,fontname="Helvetica"];
+  Node3 [label="rime::String",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a00189.html"];
+  Node2 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data" ,fontname="Helvetica"];
+  Node4 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" index" ,fontname="Helvetica"];
+  Node4 [label="rime::List\< StringId \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a00089.html"];
+  Node5 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" at" ,fontname="Helvetica"];
+  Node5 [label="rime::OffsetPtr\< StringId \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a00102.html"];
+}

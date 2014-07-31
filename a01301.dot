@@ -1,0 +1,17 @@
+digraph "rime::UserDictManager"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="rime::UserDictManager",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" deployer_" ,fontname="Helvetica"];
+  Node2 [label="rime::Deployer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a00049.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="rime::Messenger",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a00096.html"];
+  Node4 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" message_sink_" ,fontname="Helvetica"];
+  Node4 [label="signal\< void(const\l std::string &message\l_type, const std::string\l &message_value)\>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node5 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" user_data_dir\nsync_dir\ndistribution_code\l_name\nshared_data_dir\nuser_id\ndistribution_name\ndistribution_version" ,fontname="Helvetica"];
+  Node5 [label="std::string",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip="STL class. "];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="std::basic_string\<\l char \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip="STL class. "];
+}

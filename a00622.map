@@ -1,0 +1,16 @@
+<map id="script_translator.h" name="script_translator.h">
+<area shape="rect" id="node3" href="$a00275.html" title="rime/common.h" alt="" coords="1018,459,1131,484"/>
+<area shape="rect" id="node9" href="$a00411.html" title="rime/translation.h" alt="" coords="1174,312,1298,337"/>
+<area shape="rect" id="node13" href="$a00412.html" title="rime/translator.h" alt="" coords="596,239,713,264"/>
+<area shape="rect" id="node18" href="$a00260.html" title="rime/algo/algebra.h" alt="" coords="819,165,954,191"/>
+<area shape="rect" id="node23" href="$a00333.html" title="rime/gear/memory.h" alt="" coords="1524,312,1663,337"/>
+<area shape="rect" id="node28" href="$a00414.html" title="rime/gear/translator\l_commons.h" alt="" coords="1170,79,1307,117"/>
+<area shape="rect" id="node8" href="$a00341.html" title="no_logging.h" alt="" coords="1394,532,1492,557"/>
+<area shape="rect" id="node12" href="$a00268.html" title="rime/candidate.h" alt="" coords="1176,385,1296,411"/>
+<area shape="rect" id="node14" href="$a00276.html" title="rime/component.h" alt="" coords="565,312,693,337"/>
+<area shape="rect" id="node17" href="$a00409.html" title="rime/ticket.h" alt="" coords="245,385,339,411"/>
+<area shape="rect" id="node16" href="$a00355.html" title="rime/registry.h" alt="" coords="666,385,771,411"/>
+<area shape="rect" id="node19" href="$a00280.html" title="rime/config.h" alt="" coords="921,239,1018,264"/>
+<area shape="rect" id="node22" href="$a00389.html" title="spelling.h" alt="" coords="42,239,120,264"/>
+<area shape="rect" id="node24" href="$a00434.html" title="rime/dict/vocabulary.h" alt="" coords="1625,385,1775,411"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$a00017.html" title="rime::Class\&lt; Filter,\l const Ticket &amp; \&gt;" alt="" coords="5,61,137,100"/>
+<area shape="rect" id="node2" href="$a00073.html" title="rime::Filter" alt="" coords="208,68,293,93"/>
+<area shape="rect" id="node3" href="$a00016.html" title="rime::CJKMinifier" alt="" coords="391,5,514,31"/>
+<area shape="rect" id="node4" href="$a00132.html" title="rime::ReverseLookupFilter" alt="" coords="364,104,541,129"/>
+<area shape="rect" id="node5" href="$a00180.html" title="rime::Simplifier" alt="" coords="398,153,507,179"/>
+<area shape="rect" id="node6" href="$a00234.html" title="rime::Uniquifier" alt="" coords="397,55,508,80"/>
+<area shape="rect" id="node7" href="$a00212.html" title="rime::TagMatching" alt="" coords="185,129,316,155"/>
+</map>

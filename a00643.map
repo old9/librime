@@ -1,0 +1,19 @@
+<map id="simplifier.cc" name="simplifier.cc">
+<area shape="rect" id="node9" href="$a00268.html" title="rime/candidate.h" alt="" coords="591,225,711,251"/>
+<area shape="rect" id="node10" href="$a00275.html" title="rime/common.h" alt="" coords="1249,372,1363,397"/>
+<area shape="rect" id="node16" href="$a00280.html" title="rime/config.h" alt="" coords="1259,152,1356,177"/>
+<area shape="rect" id="node22" href="$a00282.html" title="rime/context.h" alt="" coords="103,225,208,251"/>
+<area shape="rect" id="node25" href="$a00311.html" title="rime/engine.h" alt="" coords="938,225,1040,251"/>
+<area shape="rect" id="node27" href="$a00367.html" title="rime/schema.h" alt="" coords="1138,79,1247,104"/>
+<area shape="rect" id="node28" href="$a00378.html" title="rime/service.h" alt="" coords="1846,79,1950,104"/>
+<area shape="rect" id="node36" href="$a00386.html" title="rime/gear/simplifier.h" alt="" coords="313,79,457,104"/>
+<area shape="rect" id="node15" href="$a00341.html" title="no_logging.h" alt="" coords="1625,445,1723,471"/>
+<area shape="rect" id="node20" href="$a00276.html" title="rime/component.h" alt="" coords="1418,225,1546,251"/>
+<area shape="rect" id="node21" href="$a00355.html" title="rime/registry.h" alt="" coords="1423,299,1528,324"/>
+<area shape="rect" id="node23" href="$a00274.html" title="rime/commit_history.h" alt="" coords="5,299,156,324"/>
+<area shape="rect" id="node26" href="$a00336.html" title="rime/messenger.h" alt="" coords="1090,299,1218,324"/>
+<area shape="rect" id="node32" href="$a00293.html" title="rime/deployer.h" alt="" coords="1744,152,1857,177"/>
+<area shape="rect" id="node38" href="$a00316.html" title="rime/filter.h" alt="" coords="683,152,769,177"/>
+<area shape="rect" id="node40" href="$a00318.html" title="rime/gear/filter_commons.h" alt="" coords="283,225,465,251"/>
+<area shape="rect" id="node39" href="$a00409.html" title="rime/ticket.h" alt="" coords="567,299,661,324"/>
+</map>

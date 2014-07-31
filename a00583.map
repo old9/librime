@@ -1,0 +1,13 @@
+<map id="preset_vocabulary.cc" name="preset_vocabulary.cc">
+<area shape="rect" id="node5" href="$a00378.html" title="rime/service.h" alt="" coords="429,79,533,104"/>
+<area shape="rect" id="node25" href="$a00345.html" title="rime/dict/preset_vocabulary.h" alt="" coords="705,299,899,324"/>
+<area shape="rect" id="node26" href="$a00407.html" title="rime/dict/text_db.h" alt="" coords="872,79,1002,104"/>
+<area shape="rect" id="node11" href="$a00275.html" title="rime/common.h" alt="" coords="306,372,419,397"/>
+<area shape="rect" id="node17" href="$a00293.html" title="rime/deployer.h" alt="" coords="161,152,273,177"/>
+<area shape="rect" id="node16" href="$a00341.html" title="no_logging.h" alt="" coords="681,445,779,471"/>
+<area shape="rect" id="node22" href="$a00276.html" title="rime/component.h" alt="" coords="637,225,765,251"/>
+<area shape="rect" id="node24" href="$a00336.html" title="rime/messenger.h" alt="" coords="222,299,350,324"/>
+<area shape="rect" id="node23" href="$a00355.html" title="rime/registry.h" alt="" coords="475,299,580,324"/>
+<area shape="rect" id="node27" href="$a00289.html" title="rime/dict/db.h" alt="" coords="657,152,758,177"/>
+<area shape="rect" id="node28" href="$a00418.html" title="rime/dict/tsv.h" alt="" coords="1056,152,1159,177"/>
+</map>

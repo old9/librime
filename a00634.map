@@ -1,0 +1,14 @@
+<map id="service.h" name="service.h">
+<area shape="rect" id="node2" href="$a00283.html" title="core_module.cc" alt="" coords="5,79,121,104"/>
+<area shape="rect" id="node3" href="$a00288.html" title="db.cc" alt="" coords="144,79,198,104"/>
+<area shape="rect" id="node4" href="$a00301.html" title="dictionary.cc" alt="" coords="221,79,316,104"/>
+<area shape="rect" id="node5" href="$a00344.html" title="preset_vocabulary.cc" alt="" coords="339,79,486,104"/>
+<area shape="rect" id="node6" href="$a00356.html" title="reverse_lookup_dictionary.cc" alt="" coords="509,79,702,104"/>
+<area shape="rect" id="node7" href="$a00415.html" title="tree_db.cc" alt="" coords="727,79,810,104"/>
+<area shape="rect" id="node8" href="$a00423.html" title="user_db.cc" alt="" coords="834,79,921,104"/>
+<area shape="rect" id="node9" href="$a00427.html" title="user_dictionary.cc" alt="" coords="944,79,1072,104"/>
+<area shape="rect" id="node10" href="$a00385.html" title="simplifier.cc" alt="" coords="1097,79,1187,104"/>
+<area shape="rect" id="node11" href="$a00327.html" title="levers_module.cc" alt="" coords="1211,79,1336,104"/>
+<area shape="rect" id="node12" href="$a00362.html" title="rime_api.cc" alt="" coords="1360,79,1449,104"/>
+<area shape="rect" id="node13" href="$a00377.html" title="service.cc" alt="" coords="1473,79,1554,104"/>
+</map>

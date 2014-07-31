@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title="STL class. " alt="" coords="5,153,125,179"/>
+<area shape="rect" id="node2" href="$a00033.html" title="rime::ConfigDataManager" alt="" coords="181,5,355,31"/>
+<area shape="rect" id="node3" href="$a00055.html" title="rime::DictEntryCollector" alt="" coords="187,55,348,80"/>
+<area shape="rect" id="node4" href="$a00084.html" title="rime::KeyBindings" alt="" coords="203,104,332,129"/>
+<area shape="rect" id="node5" href="$a00126.html" title="rime::RecognizerPatterns" alt="" coords="182,153,353,179"/>
+<area shape="rect" id="node6" href="$a00162.html" title="rime::Script" alt="" coords="223,203,312,228"/>
+<area shape="rect" id="node7" href="$a00242.html" title="rime::UserDictEntryCollector" alt="" coords="173,252,362,277"/>
+<area shape="rect" id="node8" href="$a00249.html" title="rime::Vocabulary" alt="" coords="207,301,328,327"/>
+</map>

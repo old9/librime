@@ -1,0 +1,18 @@
+<map id="entry_collector.cc" name="entry_collector.cc">
+<area shape="rect" id="node5" href="$a00300.html" title="rime/dict/dict_settings.h" alt="" coords="529,79,689,104"/>
+<area shape="rect" id="node20" href="$a00313.html" title="rime/dict/entry_collector.h" alt="" coords="1416,79,1589,104"/>
+<area shape="rect" id="node40" href="$a00345.html" title="rime/dict/preset_vocabulary.h" alt="" coords="758,299,953,324"/>
+<area shape="rect" id="node8" href="$a00275.html" title="rime/common.h" alt="" coords="1586,372,1699,397"/>
+<area shape="rect" id="node14" href="$a00280.html" title="rime/config.h" alt="" coords="153,152,251,177"/>
+<area shape="rect" id="node13" href="$a00341.html" title="no_logging.h" alt="" coords="1857,445,1955,471"/>
+<area shape="rect" id="node18" href="$a00276.html" title="rime/component.h" alt="" coords="568,225,696,251"/>
+<area shape="rect" id="node19" href="$a00355.html" title="rime/registry.h" alt="" coords="579,299,684,324"/>
+<area shape="rect" id="node24" href="$a00309.html" title="rime/algo/encoder.h" alt="" coords="1390,299,1529,324"/>
+<area shape="rect" id="node26" href="$a00302.html" title="rime/dict/dictionary.h" alt="" coords="1492,152,1635,177"/>
+<area shape="rect" id="node35" href="$a00434.html" title="rime/dict/vocabulary.h" alt="" coords="1842,299,1992,324"/>
+<area shape="rect" id="node28" href="$a00347.html" title="rime/dict/prism.h" alt="" coords="1709,225,1829,251"/>
+<area shape="rect" id="node37" href="$a00401.html" title="rime/dict/table.h" alt="" coords="1971,225,2087,251"/>
+<area shape="rect" id="node30" href="$a00389.html" title="rime/algo/spelling.h" alt="" coords="1180,299,1316,324"/>
+<area shape="rect" id="node31" href="$a00329.html" title="rime/dict/mapped_file.h" alt="" coords="2117,299,2277,324"/>
+<area shape="rect" id="node38" href="$a00391.html" title="rime/dict/string_table.h" alt="" coords="2351,299,2507,324"/>
+</map>

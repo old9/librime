@@ -1,0 +1,16 @@
+<map id="ascii_segmentor.cc" name="ascii_segmentor.cc">
+<area shape="rect" id="node2" href="$a00275.html" title="rime/common.h" alt="" coords="947,372,1060,397"/>
+<area shape="rect" id="node8" href="$a00280.html" title="rime/config.h" alt="" coords="299,152,397,177"/>
+<area shape="rect" id="node15" href="$a00282.html" title="rime/context.h" alt="" coords="559,225,664,251"/>
+<area shape="rect" id="node18" href="$a00311.html" title="rime/engine.h" alt="" coords="858,225,960,251"/>
+<area shape="rect" id="node20" href="$a00367.html" title="rime/schema.h" alt="" coords="451,79,560,104"/>
+<area shape="rect" id="node21" href="$a00373.html" title="rime/segmentation.h" alt="" coords="1167,299,1310,324"/>
+<area shape="rect" id="node24" href="$a00264.html" title="rime/gear/ascii_segmentor.h" alt="" coords="83,79,272,104"/>
+<area shape="rect" id="node7" href="$a00341.html" title="no_logging.h" alt="" coords="1323,445,1421,471"/>
+<area shape="rect" id="node13" href="$a00276.html" title="rime/component.h" alt="" coords="37,225,165,251"/>
+<area shape="rect" id="node14" href="$a00355.html" title="rime/registry.h" alt="" coords="255,299,360,324"/>
+<area shape="rect" id="node16" href="$a00274.html" title="rime/commit_history.h" alt="" coords="537,299,687,324"/>
+<area shape="rect" id="node19" href="$a00336.html" title="rime/messenger.h" alt="" coords="814,299,941,324"/>
+<area shape="rect" id="node25" href="$a00374.html" title="rime/segmentor.h" alt="" coords="39,152,163,177"/>
+<area shape="rect" id="node26" href="$a00409.html" title="rime/ticket.h" alt="" coords="37,299,130,324"/>
+</map>
