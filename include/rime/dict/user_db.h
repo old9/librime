@@ -18,6 +18,7 @@ namespace rime {
 
 using TickCount = uint64_t;
 
+/// Properties of a user db entry value.
 struct UserDbValue {
   int commits = 0;
   double dee = 0.0;
@@ -30,14 +31,23 @@ struct UserDbValue {
   bool Unpack(const std::string& value);
 };
 
+/**
+ * A placeholder class for user db.
+ *
+ * Note: do not directly use this class to instantiate a user db.
+ * Instead, use the rime::UserDbWrapper<T> template, which creates
+ * wrapper classes for underlying implementations of rime::Db.
+ */
 class UserDb {
  public:
+  /// Abstract class for a user db component.
   class Component : public Db::Component {
    public:
     virtual std::string extension() const = 0;
     virtual std::string snapshot_extension() const = 0;
   };
 
+  /// Requires a registered component for a user db class.
   static Component* Require(const std::string& name) {
     return static_cast<Component*>(Db::Require(name));
   }
@@ -45,7 +55,7 @@ class UserDb {
   UserDb() = delete;
 };
 
-
+/// A helper class to provide extra functionalities related to user db.
 class UserDbHelper {
  public:
   UserDbHelper(Db* db) : db_(db) {
@@ -70,6 +80,7 @@ class UserDbHelper {
   Db* db_;
 };
 
+/// A template to define a user db class based on an implementation of rime::Db.
 template <class BaseDb>
 class UserDbWrapper : public BaseDb {
  public:
@@ -93,12 +104,14 @@ class UserDbWrapper : public BaseDb {
   }
 };
 
+/// Provides information of the db file format by its base class.
 template <class BaseDb>
 struct UserDbFormat {
   static const std::string extension;
   static const std::string snapshot_extension;
 };
 
+/// Implements a component that serves as a factory for a user db class.
 template <class BaseDb>
 class UserDbComponent : public UserDb::Component {
  public:
