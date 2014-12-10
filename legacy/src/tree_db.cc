@@ -17,10 +17,12 @@
 
 #include <rime/common.h>
 #include <rime/service.h>
-#include <rime/dict/tree_db.h>
 #include <rime/dict/user_db.h>
 
+#include "tree_db.h"
+
 namespace rime {
+namespace legacy {
 
 static const char* kMetaCharacter = "\x01";
 
@@ -275,4 +277,5 @@ UserDbWrapper<TreeDb>::UserDbWrapper(const std::string& db_name)
     : TreeDb(db_name, "userdb") {
 }
 
+}  // namespace legacy
 }  // namespace rime
