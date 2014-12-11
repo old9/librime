@@ -61,7 +61,7 @@ rem set DOWNLOAD="%CURL%" --remote-name-all
 rem set GOOGLECODE_SVN=http://rimeime.googlecode.com/svn/trunk/
 
 if %build_boost% == 1 (
-  cd %BOOST_ROOT%
+  cd /d %BOOST_ROOT%
   if not exist bjam.exe call bootstrap.bat
   if %ERRORLEVEL% NEQ 0 goto ERROR
   bjam toolset=msvc-12.0 variant=release link=static threading=multi runtime-link=static stage --with-chrono --with-date_time --with-filesystem --with-system --with-regex --with-signals --with-thread
@@ -72,7 +72,7 @@ if %build_boost% == 1 (
 
 if %build_thirdparty% == 1 (
   echo building glog.
-  cd "%RIME_ROOT%"\thirdparty\src\glog
+  cd /d "%RIME_ROOT%"\thirdparty\src\glog
   rem devenv google-glog-vc10.sln /build "Release"
   msbuild.exe google-glog-vc12.sln /p:Configuration=Release
   if %ERRORLEVEL% NEQ 0 goto ERROR
@@ -85,7 +85,7 @@ if %build_thirdparty% == 1 (
   if %ERRORLEVEL% NEQ 0 goto ERROR
 
   echo building kyotocabinet.
-  cd "%RIME_ROOT%"\thirdparty\src\kyotocabinet
+  cd /d "%RIME_ROOT%"\thirdparty\src\kyotocabinet
   nmake -f VC12makefile
   if %ERRORLEVEL% NEQ 0 goto ERROR
   nmake -f VC12makefile binpkg
@@ -99,7 +99,7 @@ if %build_thirdparty% == 1 (
   if %ERRORLEVEL% NEQ 0 goto ERROR
 
   echo building yaml-cpp.
-  cd "%RIME_ROOT%"\thirdparty\src\yaml-cpp
+  cd /d "%RIME_ROOT%"\thirdparty\src\yaml-cpp
   if not exist build mkdir build
   cd build
   cmake -DMSVC_SHARED_RT=OFF ..
@@ -114,7 +114,7 @@ if %build_thirdparty% == 1 (
   if %ERRORLEVEL% NEQ 0 goto ERROR
 
   echo building gtest.
-  cd "%RIME_ROOT%"\thirdparty\src\gtest
+  cd /d "%RIME_ROOT%"\thirdparty\src\gtest
   if not exist build mkdir build
   cd build
   cmake ..
@@ -129,7 +129,7 @@ if %build_thirdparty% == 1 (
   if %ERRORLEVEL% NEQ 0 goto ERROR
 
   echo building marisa.
-  cd "%RIME_ROOT%"\thirdparty\src\marisa-trie\vs2013
+  cd /d "%RIME_ROOT%"\thirdparty\src\marisa-trie\vs2013
   msbuild.exe vs2013.sln /p:Configuration=Release
   if %ERRORLEVEL% NEQ 0 goto ERROR
   echo built. copying artifacts.
@@ -143,11 +143,11 @@ if %build_thirdparty% == 1 (
 
   echo skipped building opencc.
 
-  cd "%RIME_ROOT%"\thirdparty\src\opencc-windows
+  cd /d "%RIME_ROOT%"\thirdparty\src\opencc-windows
   call generate_vc_lib_file.bat
   if %ERRORLEVEL% NEQ 0 goto ERROR
 
-  cd "%RIME_ROOT%"\thirdparty\include
+  cd /d "%RIME_ROOT%"\thirdparty\include
   if not exist opencc mkdir opencc
   cd opencc
   rem if not exist opencc.h %DOWNLOAD% %GOOGLECODE_SVN%misc/opencc/opencc.h
@@ -155,11 +155,11 @@ if %build_thirdparty% == 1 (
   copy /Y "%RIME_ROOT%"\thirdparty\src\opencc-windows\opencc.h .
   copy /Y "%RIME_ROOT%"\thirdparty\src\opencc-windows\opencc_types.h .
   if %ERRORLEVEL% NEQ 0 goto ERROR
-  cd "%RIME_ROOT%"\thirdparty\lib
+  cd /d "%RIME_ROOT%"\thirdparty\lib
   rem if not exist opencc.lib %DOWNLOAD% %GOOGLECODE_SVN%misc/opencc/vc10/opencc.lib
   copy /Y "%RIME_ROOT%"\thirdparty\src\opencc-windows\opencc.lib .
   if %ERRORLEVEL% NEQ 0 goto ERROR
-  cd "%RIME_ROOT%"\thirdparty\bin
+  cd /d "%RIME_ROOT%"\thirdparty\bin
   rem if not exist opencc.dll %DOWNLOAD% %GOOGLECODE_SVN%misc/opencc/opencc.dll
   rem if not exist opencc.exe %DOWNLOAD% %GOOGLECODE_SVN%misc/opencc/opencc.exe
   rem if not exist opencc_dict.exe %DOWNLOAD% %GOOGLECODE_SVN%misc/opencc/opencc_dict.exe
@@ -182,7 +182,7 @@ if not exist %BUILD_DIR% mkdir %BUILD_DIR%
 
 set RIME_CMAKE_FLAGS=-DBUILD_STATIC=ON -DBUILD_SHARED_LIBS=%build_shared% -DBUILD_TEST=%build_test% -DENABLE_LOGGING=%enable_logging% -DBOOST_USE_CXX11=ON
 
-cd %BUILD_DIR%
+cd /d %BUILD_DIR%
 echo cmake -G %CMAKE_GENERATOR% %RIME_CMAKE_FLAGS% %RIME_ROOT%
 call cmake -G %CMAKE_GENERATOR% %RIME_CMAKE_FLAGS% %RIME_ROOT%
 if %ERRORLEVEL% NEQ 0 goto ERROR
@@ -205,5 +205,5 @@ echo.
 
 :EXIT
 set PATH=%OLD_PATH%
-cd %RIME_ROOT%
+cd /d %RIME_ROOT%
 rem pause
